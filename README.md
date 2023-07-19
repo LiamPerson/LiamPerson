@@ -1,4 +1,5 @@
-### Hi there 👋
+Check out my gists as well 👇
+https://gist.github.com/YeloPartyHat
 
 <!--
 **YeloPartyHat/YeloPartyHat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
