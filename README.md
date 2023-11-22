@@ -1,6 +1,6 @@
 Check out my gists as well 👇
 
-https://gist.github.com/YeloPartyHat
+https://gist.github.com/LiamPerson
 
 <!--
 **YeloPartyHat/YeloPartyHat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
